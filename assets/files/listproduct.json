@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": "A001",
+            "name": "Lego 01",
+            "price": 200000,
+            "img": "a001.jpg",
+            "des": "hộp nhỏ"
+        },
+
+        {
+            "id": "A002",
+            "name": "Lego 02",
+            "price": 400000,
+            "img": "a002.jpg",
+            "des": "hộp vừa"
+        },
+
+        {
+            "id": "A003",
+            "name": "Lego 03",
+            "price": 600000,
+            "img": "a003.jpg",
+            "des": "hộp lớn"
+        },
+
+        {
+            "id": "A004",
+            "name": "Lego 04",
+            "price": 800000,
+            "img": "a004.jpg",
+            "des": "khổng lồ"
+        }
+    ]
+}
